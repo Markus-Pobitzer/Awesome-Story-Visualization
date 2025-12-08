@@ -1,0 +1,487 @@
+{
+    "papers": [
+        {
+            "title": "A Survey on Long-Video Storytelling Generation: Architectures, Consistency, and Cinematic Quality",
+            "url": "https://arxiv.org/abs/2507.07202",
+            "venue": "ICCV Workshop 2025",
+            "arxiv": "https://arxiv.org/abs/2507.07202",
+            "github": "",
+            "keywords": [
+                "Survey"
+            ],
+            "date": "2025-07-09"
+        },
+        {
+            "title": "Action2Dialogue: Generating Character-Centric Narratives from Scene-Level Prompts",
+            "url": "https://arxiv.org/abs/2505.16819v3",
+            "venue": "arXiv",
+            "arxiv": "https://arxiv.org/abs/2505.16819v3",
+            "github": "",
+            "keywords": [
+                "Video"
+            ],
+            "date": "2025-05-22"
+        },
+        {
+            "title": "AesopAgent: Agent-driven Evolutionary System on Story-to-Video Production",
+            "url": "https://arxiv.org/abs/2403.07952",
+            "venue": "arXiv",
+            "arxiv": "https://arxiv.org/abs/2403.07952",
+            "github": "",
+            "keywords": [
+                "Image",
+                "Video",
+                "Agentic"
+            ],
+            "date": "2024-03-12"
+        },
+        {
+            "title": "AgentStory: A Multi-Agent System for Story Visualization with Multi-Subject Consistent Text-to-Image Generation",
+            "url": "https://dl.acm.org/doi/10.1145/3731715.3733271",
+            "venue": "ICMR 2025",
+            "arxiv": "",
+            "github": "https://github.com/tc2000731/AgentStory",
+            "keywords": [
+                "Image",
+                "Agentic"
+            ],
+            "date": "2025-06-30"
+        },
+        {
+            "title": "AniMaker: Multi-Agent Animated Storytelling with MCTS-Driven Clip Generation",
+            "url": "https://arxiv.org/abs/2506.10540",
+            "venue": "arXiv",
+            "arxiv": "https://arxiv.org/abs/2506.10540",
+            "github": "",
+            "keywords": [
+                "Image",
+                "Video",
+                "Audio",
+                "Agentic"
+            ],
+            "date": "2025-06-12"
+        },
+        {
+            "title": "AniME: Adaptive Multi-Agent Planning for Long Animation Generation",
+            "url": "https://arxiv.org/abs/2508.18781",
+            "venue": "arXiv",
+            "arxiv": "https://arxiv.org/abs/2508.18781",
+            "github": "",
+            "keywords": [
+                "Image",
+                "Video",
+                "Audio",
+                "Agentic"
+            ],
+            "date": "2025-10-10"
+        },
+        {
+            "title": "AnimeGamer: Infinite Anime Life Simulation with Next Game State Prediction",
+            "url": "https://arxiv.org/abs/2504.01014",
+            "venue": "ICCV 2025",
+            "arxiv": "https://arxiv.org/abs/2504.01014",
+            "github": "https://github.com/TencentARC/AnimeGamer",
+            "keywords": [
+                "Video"
+            ],
+            "date": "2025-04-01"
+        },
+        {
+            "title": "Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models",
+            "url": "https://arxiv.org/abs/2506.18900",
+            "venue": "arXiv",
+            "arxiv": "https://arxiv.org/abs/2506.18900",
+            "github": "https://auditandrepair.github.io/",
+            "keywords": [
+                "Image",
+                "Agentic"
+            ],
+            "date": "2025-06-23"
+        },
+        {
+            "title": "AutoStory: Generating Diverse Storytelling Images with Minimal Human Effort",
+            "url": "https://arxiv.org/abs/2311.11243",
+            "venue": "IJCV 2024",
+            "arxiv": "https://arxiv.org/abs/2311.11243",
+            "github": "https://github.com/aim-uofa/AutoStory",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2023-11-19"
+        },
+        {
+            "title": "Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models",
+            "url": "https://arxiv.org/abs/2407.02482",
+            "venue": "AAAI 2025",
+            "arxiv": "https://arxiv.org/abs/2407.02482",
+            "github": "https://github.com/muzishen/RCDMs",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2024-07-02"
+        },
+        {
+            "title": "ContextualStory: Consistent Visual Storytelling with Spatially-Enhanced and Storyline Context",
+            "url": "https://arxiv.org/abs/2407.09774",
+            "venue": "AAAI 2025",
+            "arxiv": "https://arxiv.org/abs/2407.09774",
+            "github": "https://github.com/sixiaozheng/ContextualStory",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2024-07-13"
+        },
+        {
+            "title": "Co-Story: Consistent, Training-Free Story Visualization Using Latent Diffusion and ControlNet",
+            "url": "https://www.researchgate.net/publication/396752085_Co-Story_Consistent_Training-Free_Story_Visualization_Using_Latent_Diffusion_and_ControlNet",
+            "venue": "MIUCC 2025",
+            "arxiv": "",
+            "github": "",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2025-09-01"
+        },
+        {
+            "title": "DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation",
+            "url": "https://arxiv.org/abs/2412.07589",
+            "venue": "CVPR 2025",
+            "arxiv": "https://arxiv.org/abs/2412.07589",
+            "github": "https://github.com/jianzongwu/DiffSensei?tab=readme-ov-file",
+            "keywords": [
+                "Image",
+                "Manga"
+            ],
+            "date": "2024-12-10"
+        },
+        {
+            "title": "DreamStory: Open-Domain Story Visualization by LLM-Guided Multi-Subject Consistent Diffusion",
+            "url": "https://arxiv.org/abs/2407.12899",
+            "venue": "arXiv",
+            "arxiv": "https://arxiv.org/abs/2407.12899",
+            "github": "https://github.com/hehuiguo/DreamStory",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2024-07-17"
+        },
+        {
+            "title": "Enabling Dynamic Storytelling via Training-Free Multimodal Synchronized Video Synthesis with Character Consistency",
+            "url": "https://dl.acm.org/doi/10.1145/3728422.3762146",
+            "venue": "LGM3A 2025",
+            "arxiv": "",
+            "github": "",
+            "keywords": [
+                "Video"
+            ],
+            "date": "2025-10-26"
+        },
+        {
+            "title": "HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives",
+            "url": "https://arxiv.org/abs/2510.20822",
+            "venue": "arXiv",
+            "arxiv": "https://arxiv.org/abs/2510.20822",
+            "github": "https://github.com/yihao-meng/HoloCine",
+            "keywords": [
+                "Video"
+            ],
+            "date": "2025-10-23"
+        },
+        {
+            "title": "Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models",
+            "url": "https://arxiv.org/abs/2306.00973",
+            "venue": "CVPR 2024",
+            "arxiv": "https://arxiv.org/abs/2306.00973",
+            "github": "https://github.com/haoningwu3639/StoryGen",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2023-06-01"
+        },
+        {
+            "title": "KAHANI: Culturally-Nuanced Visual Storytelling Tool for Non-Western Cultures",
+            "url": "https://arxiv.org/abs/2410.19419",
+            "venue": "arXiv",
+            "arxiv": "https://arxiv.org/abs/2410.19419",
+            "github": "https://github.com/microsoft/Kahani?tab=readme-ov-file",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2024-10-25"
+        },
+        {
+            "title": "Make-A-Story: Visual Memory Conditioned Consistent Story Generation",
+            "url": "https://arxiv.org/abs/2211.13319",
+            "venue": "CVPR 2023",
+            "arxiv": "https://arxiv.org/abs/2211.13319",
+            "github": "https://github.com/ubc-vision/Make-A-Story",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2022-11-23"
+        },
+        {
+            "title": "Masked Generative Story Transformer with Character Guidance and Caption Augmentation",
+            "url": "https://arxiv.org/abs/2403.08502",
+            "venue": "venue",
+            "arxiv": "https://arxiv.org/abs/2403.08502",
+            "github": "",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2024-03-13"
+        },
+        {
+            "title": "Mind the Time: Temporally-Controlled Multi-Event Video Generation",
+            "url": "https://arxiv.org/abs/2412.05263",
+            "venue": "CVPR 2025",
+            "arxiv": "https://arxiv.org/abs/2412.05263",
+            "github": "https://mint-video.github.io/",
+            "keywords": [],
+            "date": "2024-12-06"
+        },
+        {
+            "title": "MM-StoryAgent: Immersive Narrated Storybook Video Generation with a Multi-Agent Paradigm across Text, Image and Audio",
+            "url": "https://arxiv.org/abs/2503.05242",
+            "venue": "arXiv",
+            "arxiv": "https://arxiv.org/abs/2503.05242",
+            "github": "https://github.com/X-PLUG/MM_StoryAgent",
+            "keywords": [
+                "Image",
+                "Video",
+                "Audio",
+                "Agentic"
+            ],
+            "date": "2025-03-07"
+        },
+        {
+            "title": "MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence",
+            "url": "https://arxiv.org/abs/2407.16655",
+            "venue": "ICLR 2025",
+            "arxiv": "https://arxiv.org/abs/2407.16655",
+            "github": "https://github.com/aim-uofa/MovieDreamer",
+            "keywords": [
+                "Video",
+                "Audio"
+            ],
+            "date": "2024-07-23"
+        },
+        {
+            "title": "SEED-Story: Multimodal Long Story Generation with Large Language Model",
+            "url": "https://arxiv.org/abs/2407.08683",
+            "venue": "ICCV Workshop 2025",
+            "arxiv": "https://arxiv.org/abs/2407.08683",
+            "github": "https://github.com/TencentARC/SEED-Story",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2024-07-11"
+        },
+        {
+            "title": "Story-Adapter: A Training-free Iterative Framework for Long Story Visualization",
+            "url": "https://arxiv.org/abs/2410.06244",
+            "venue": "arXiv",
+            "arxiv": "https://arxiv.org/abs/2410.06244",
+            "github": "https://github.com/UCSC-VLAA/story-adapter",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2024-10-08"
+        },
+        {
+            "title": "Story Visualization by Online Text Augmentation with Context Memory",
+            "url": "https://arxiv.org/abs/2308.07575",
+            "venue": "ICCV 2023",
+            "arxiv": "https://arxiv.org/abs/2308.07575",
+            "github": "https://github.com/yonseivnl/cmota",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2023-08-15"
+        },
+        {
+            "title": "StoryWeaver: A Unified World Model for Knowledge-Enhanced Story Character Customization",
+            "url": "https://arxiv.org/abs/2412.07375",
+            "venue": "AAAI 2025",
+            "arxiv": "https://arxiv.org/abs/2412.07375",
+            "github": "https://github.com/Aria-Zhangjl/StoryWeaver",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2024-12-10"
+        },
+        {
+            "title": "Story2Board: A Training-Free Approach for Expressive Storyboard Generation",
+            "url": "https://arxiv.org/abs/2508.09983",
+            "venue": "arXiv",
+            "arxiv": "https://arxiv.org/abs/2508.09983",
+            "github": "https://github.com/DavidDinkevich/Story2Board",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2025-08-13"
+        },
+        {
+            "title": "StoryAgent: Customized Storytelling Video Generation via Multi-Agent Collaboration",
+            "url": "https://arxiv.org/abs/2411.04925",
+            "venue": "arXiv",
+            "arxiv": "https://arxiv.org/abs/2411.04925",
+            "github": "",
+            "keywords": [
+                "Image",
+                "Agentic"
+            ],
+            "date": "2024-11-07"
+        },
+        {
+            "title": "STORYANCHORS: Generating Consistent Multi-Scene Story Frames for Long-Form Narratives",
+            "url": "https://arxiv.org/abs/2505.08350",
+            "venue": "arXiv",
+            "arxiv": "https://arxiv.org/abs/2505.08350",
+            "github": "",
+            "keywords": [
+                "Image",
+                "Video"
+            ],
+            "date": "2025-05-13"
+        },
+        {
+            "title": "StoryCrafter: Instance-Aligned Multi-Character Storytelling with Diffusion Policy Learning",
+            "url": "https://dl.acm.org/doi/10.1145/3746027.3755022",
+            "venue": "MM 2025",
+            "arxiv": "",
+            "github": "",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2025-10-27"
+        },
+        {
+            "title": "StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation",
+            "url": "https://arxiv.org/abs/2209.06192",
+            "venue": "ECCV 2022",
+            "arxiv": "https://arxiv.org/abs/2209.06192",
+            "github": "https://github.com/adymaharana/storydalle",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2022-09-13"
+        },
+        {
+            "title": "StoryDiffusion: How to Support UX Storyboarding With Generative-AI",
+            "url": "https://arxiv.org/abs/2407.07672",
+            "venue": "ICMI 2025",
+            "arxiv": "https://arxiv.org/abs/2407.07672",
+            "github": "github",
+            "keywords": [],
+            "date": "2024-07-10"
+        },
+        {
+            "title": "StoryGAN: A Sequential Conditional GAN for Story Visualization",
+            "url": "https://arxiv.org/abs/1812.02784",
+            "venue": "CVPR 2019",
+            "arxiv": "https://arxiv.org/abs/1812.02784",
+            "github": "https://github.com/yitong91/StoryGAN",
+            "keywords": [
+                "Image",
+                "GAN",
+                "Sequential Generation"
+            ],
+            "date": "2019-04-18"
+        },
+        {
+            "title": "StoryGPT-V: Large Language Models as Consistent Story Visualizers",
+            "url": "https://arxiv.org/abs/2312.02252",
+            "venue": "CVPR 2025",
+            "arxiv": "https://arxiv.org/abs/2312.02252",
+            "github": "github",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2023-12-04"
+        },
+        {
+            "title": "StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion",
+            "url": "https://arxiv.org/abs/2404.05979",
+            "venue": "ECCV 2024",
+            "arxiv": "https://arxiv.org/abs/2404.05979",
+            "github": "https://github.com/tobran/StoryImager",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2024-04-09"
+        },
+        {
+            "title": "Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models",
+            "url": "https://arxiv.org/abs/2211.10950",
+            "venue": "WACV 2024",
+            "arxiv": "https://arxiv.org/abs/2211.10950",
+            "github": "https://github.com/xichenpan/ARLDM",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2022-11-20"
+        },
+        {
+            "title": "VideoAuteur: Towards Long Narrative Video Generation",
+            "url": "https://arxiv.org/abs/2501.06173",
+            "venue": "ICCV 2025",
+            "arxiv": "https://arxiv.org/abs/2501.06173",
+            "github": "https://videoauteur.github.io/VideoDirectorGPT - Consistent Multi-Scene Video Generation via LLM Guided Planning",
+            "keywords": [
+                "Video"
+            ],
+            "date": "2025-01-25"
+        },
+        {
+            "title": "VideoDirectorGPT - Consistent Multi-Scene Video Generation via LLM Guided Planning",
+            "url": "https://arxiv.org/abs/2309.15091",
+            "venue": "COLM 2024",
+            "arxiv": "https://arxiv.org/abs/2309.15091",
+            "github": "https://github.com/HL-hanlin/VideoDirectorGPT",
+            "keywords": [
+                "Video"
+            ],
+            "date": "2023-09-26"
+        },
+        {
+            "title": "VisAgent: Narrative-Preserving Story Visualization Framework",
+            "url": "https://arxiv.org/abs/2503.02399",
+            "venue": "arXiv",
+            "arxiv": "https://arxiv.org/abs/2503.02399",
+            "github": "",
+            "keywords": [
+                "Image",
+                "Agentic"
+            ],
+            "date": "2025-03-04"
+        }
+    ],
+    "benchmarks": [
+        {
+            "title": "ViStoryBench: Comprehensive Benchmark Suite for Story Visualization",
+            "url": "https://arxiv.org/abs/2505.24862",
+            "venue": "arXiv",
+            "arxiv": "https://arxiv.org/abs/2505.24862",
+            "github": "https://github.com/vistorybench/vistorybench?tab=readme-ov-file",
+            "keywords": [
+                "Image",
+                "Character consistency"
+            ],
+            "date": "2025-08-12"
+        }
+    ],
+    "datasets": [
+        {
+            "title": "MovieBench: A Hierarchical Movie Level Dataset for Long Video Generation",
+            "url": "https://arxiv.org/abs/2411.15262",
+            "venue": "CVPR 2025",
+            "arxiv": "https://arxiv.org/abs/2411.15262",
+            "github": "https://arxiv.org/abs/2411.15262",
+            "keywords": [
+                "Video"
+            ],
+            "date": "2024-11-22"
+        }
+    ]
+}
