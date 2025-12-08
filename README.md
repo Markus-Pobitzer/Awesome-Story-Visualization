@@ -1,4 +1,4 @@
-# Awesome Story Visualization
+<h1 align="center">Awesome Story Visualization</h1>
 
 A curated list of resources, papers, and benchmarks focused on **Story Visualization**.
 

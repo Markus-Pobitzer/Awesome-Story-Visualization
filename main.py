@@ -82,7 +82,7 @@ class AwesomeReadmeGenerator:
     def _generate_intro(self) -> str:
         """Generates the static introduction text."""
         return (
-            "# Awesome Story Visualization\n\n"
+            "<h1 align=\"center\">Awesome Story Visualization</h1>\n\n"
             "A curated list of resources, papers, and benchmarks focused on "
             "**Story Visualization**.\n\n"
             "Entries are sorted by date (newest first).\n\n"
