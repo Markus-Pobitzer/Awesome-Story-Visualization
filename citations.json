@@ -87,6 +87,17 @@
             "date": "2025-04-01"
         },
         {
+            "title": "AnyStory: Towards Unified Single and Multiple Subject Personalization in Text-to-Image Generation",
+            "url": "https://arxiv.org/abs/2501.09503",
+            "venue": "arXiv",
+            "arxiv": "https://arxiv.org/abs/2501.09503",
+            "github": "https://github.com/junjiehe96/AnyStory",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2025-01-16"
+        },
+        {
             "title": "Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models",
             "url": "https://arxiv.org/abs/2506.18900",
             "venue": "arXiv",
@@ -177,6 +188,17 @@
             "date": "2025-10-26"
         },
         {
+            "title": "Imagine This! Scripts to Compositions to Videos",
+            "url": "https://arxiv.org/abs/1804.03608",
+            "venue": "ECCV 2018",
+            "arxiv": "https://arxiv.org/abs/1804.03608",
+            "github": "",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2018-04-10"
+        },
+        {
             "title": "HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives",
             "url": "https://arxiv.org/abs/2510.20822",
             "venue": "arXiv",
@@ -208,6 +230,17 @@
                 "Image"
             ],
             "date": "2024-10-25"
+        },
+        {
+            "title": "Lay2Story: Extending Diffusion Transformers for Layout-Togglable Story Generation",
+            "url": "https://arxiv.org/abs/2508.08949",
+            "venue": "arXiv",
+            "arxiv": "https://arxiv.org/abs/2508.08949",
+            "github": "",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2025-08-12"
         },
         {
             "title": "Make-A-Story: Visual Memory Conditioned Consistent Story Generation",
@@ -412,6 +445,28 @@
             "date": "2024-04-09"
         },
         {
+            "title": "StoryMaker: Towards Holistic Consistent Characters in Text-to-image Generation",
+            "url": "https://arxiv.org/abs/2409.12576",
+            "venue": "arXiv",
+            "arxiv": "https://arxiv.org/abs/2409.12576",
+            "github": "https://github.com/FireRedTeam/StoryMaker",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2024-09-19"
+        },
+        {
+            "title": "StorySync: Training-Free Subject Consistency in Text-to-Image Generation via Region Harmonization",
+            "url": "https://arxiv.org/abs/2508.03735",
+            "venue": "arXiv",
+            "arxiv": "https://arxiv.org/abs/2508.03735",
+            "github": "",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2025-07-31"
+        },
+        {
             "title": "Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models",
             "url": "https://arxiv.org/abs/2211.10950",
             "venue": "WACV 2024",
@@ -473,6 +528,28 @@
     ],
     "datasets": [
         {
+            "title": "DiDeMoSV (StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation)",
+            "url": "https://arxiv.org/abs/2209.06192",
+            "venue": "ECCV 2022",
+            "arxiv": "https://arxiv.org/abs/2209.06192",
+            "github": "https://github.com/adymaharana/storydalle",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2022-09-13"
+        },
+        {
+            "title": "Flintstones (Imagine This! Scripts to Compositions to Videos)",
+            "url": "https://prior.allenai.org/projects/craft#dataset",
+            "venue": "ECCV 2018",
+            "arxiv": "https://arxiv.org/abs/1804.03608",
+            "github": "",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2018-04-10"
+        },
+        {
             "title": "MovieBench: A Hierarchical Movie Level Dataset for Long Video Generation",
             "url": "https://arxiv.org/abs/2411.15262",
             "venue": "CVPR 2025",
@@ -482,6 +559,19 @@
                 "Video"
             ],
             "date": "2024-11-22"
+        },
+        {
+            "title": "Pororo (StoryGAN: A Sequential Conditional GAN for Story Visualization)",
+            "url": "https://arxiv.org/abs/1812.02784",
+            "venue": "CVPR 2019",
+            "arxiv": "https://arxiv.org/abs/1812.02784",
+            "github": "https://github.com/yitong91/StoryGAN",
+            "keywords": [
+                "Image",
+                "GAN",
+                "Sequential Generation"
+            ],
+            "date": "2019-04-18"
         }
     ]
 }
