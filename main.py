@@ -47,10 +47,12 @@ class AwesomeReadmeGenerator:
         badges = self._generate_badges(entry)
 
         # Construct the line
-        line = f"- **[{title}]({url})** `{venue}` {badges}"
+        line = f"**{title}** <br> [`{venue}`]({url}) {badges}"
 
         if keywords:
             line += f" <br> _Keywords: {keywords}_"
+        
+        line += " <br> <br> "
 
         return line
 

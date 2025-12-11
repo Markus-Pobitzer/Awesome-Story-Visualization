@@ -188,17 +188,6 @@
             "date": "2025-10-26"
         },
         {
-            "title": "Imagine This! Scripts to Compositions to Videos",
-            "url": "https://arxiv.org/abs/1804.03608",
-            "venue": "ECCV 2018",
-            "arxiv": "https://arxiv.org/abs/1804.03608",
-            "github": "",
-            "keywords": [
-                "Image"
-            ],
-            "date": "2018-04-10"
-        },
-        {
             "title": "HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video Narratives",
             "url": "https://arxiv.org/abs/2510.20822",
             "venue": "arXiv",
@@ -208,6 +197,17 @@
                 "Video"
             ],
             "date": "2025-10-23"
+        },
+        {
+            "title": "Imagine This! Scripts to Compositions to Videos",
+            "url": "https://arxiv.org/abs/1804.03608",
+            "venue": "ECCV 2018",
+            "arxiv": "https://arxiv.org/abs/1804.03608",
+            "github": "",
+            "keywords": [
+                "Image"
+            ],
+            "date": "2018-04-10"
         },
         {
             "title": "Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models",
@@ -298,6 +298,17 @@
                 "Audio"
             ],
             "date": "2024-07-23"
+        },
+        {
+            "title": "OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory",
+            "url": "https://www.arxiv.org/abs/2512.07802",
+            "venue": "arXiv",
+            "arxiv": "https://www.arxiv.org/abs/2512.07802",
+            "github": "https://zhaochongan.github.io/projects/OneStory/",
+            "keywords": [
+                "Video"
+            ],
+            "date": "2025-12-08"
         },
         {
             "title": "SEED-Story: Multimodal Long Story Generation with Large Language Model",
@@ -482,7 +493,7 @@
             "url": "https://arxiv.org/abs/2501.06173",
             "venue": "ICCV 2025",
             "arxiv": "https://arxiv.org/abs/2501.06173",
-            "github": "https://videoauteur.github.io/VideoDirectorGPT - Consistent Multi-Scene Video Generation via LLM Guided Planning",
+            "github": "https://videoauteur.github.io",
             "keywords": [
                 "Video"
             ],
